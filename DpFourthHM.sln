@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DpFourthHM", "DpFourthHM\DpFourthHM.csproj", "{6F655D67-8ABE-473E-9BF1-4BD58D6B2A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DpFourthHM2", "DpFourthHM2\DpFourthHM2.csproj", "{47670C0F-DFC5-4FC4-A6A9-0D76065692BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F655D67-8ABE-473E-9BF1-4BD58D6B2A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F655D67-8ABE-473E-9BF1-4BD58D6B2A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F655D67-8ABE-473E-9BF1-4BD58D6B2A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F655D67-8ABE-473E-9BF1-4BD58D6B2A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47670C0F-DFC5-4FC4-A6A9-0D76065692BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47670C0F-DFC5-4FC4-A6A9-0D76065692BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47670C0F-DFC5-4FC4-A6A9-0D76065692BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47670C0F-DFC5-4FC4-A6A9-0D76065692BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6ACFB2-1F14-4F26-9B1C-F90FC908C3DC}
+	EndGlobalSection
+EndGlobal

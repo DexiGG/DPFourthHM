@@ -1,0 +1,7 @@
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\bin\Debug\DpFourthHM.exe.config
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\bin\Debug\DpFourthHM.exe
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\bin\Debug\DpFourthHM.pdb
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\obj\Debug\DpFourthHM.csprojAssemblyReference.cache
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\obj\Debug\DpFourthHM.csproj.CoreCompileInputs.cache
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\obj\Debug\DpFourthHM.exe
+C:\Users\Dex\source\repos\DpFourthHM\DpFourthHM\obj\Debug\DpFourthHM.pdb
